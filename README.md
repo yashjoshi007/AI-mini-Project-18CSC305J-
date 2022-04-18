@@ -3,7 +3,12 @@
 ## Submission for AI Project (18CSC305J)
 
 This is an AI enabled method where on the basis on AGE-GENDER-ESTIMATION it smartly suggests the related ad's for the people in the particular area.
-THe ad's can be pre initialized as fix set for fix audience or can be kept as an automated option.
+The ad's can be pre initialized as fix set for fix audience or can be kept as an automated option.
+
+## Output Screenshot
+
+![image](https://user-images.githubusercontent.com/60972077/163792759-26198448-e124-4eca-9c24-f688c2624b67.png)
+
 
 <h2 align= "left"><b>Project Maintainer(s)</b></h2>
 
